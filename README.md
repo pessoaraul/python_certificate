@@ -1,2 +1,2 @@
 # python_certificate
-gerador de certificados automático com python
+script python para geração e envio automático de certificados
